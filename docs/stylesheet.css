@@ -1,0 +1,72 @@
+body {
+    background-color: #DACCE6;
+}
+header {
+    background-color: #DACCE6;
+}
+nav {
+    background-color: #DACCE6;
+}
+a.login {
+    font-size: 20px;
+    color: #450084;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+a.login:hover {
+    color: #F3F7F0;
+}
+a.nav-link {
+    font-size: 20px;
+    color: #450084;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+a.nav-link:hover{
+    color: #F3F7F0;
+}
+.about {
+    background-color: #DACCE6;
+}
+.padding {
+    background-color: #DACCE6;
+    padding: 10px;
+  }
+a.btn.btn-primary {
+    color: white;
+    background: #450084;
+  }
+.logo {
+    max-height: 135px;
+}
+.fa-graduation-cap {
+    font-size: 50px;
+    color: #450084;
+}
+.fa-user{
+    font-size: 35px;
+    color: #450084;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+.fa-instagram {
+    font-size: 35px;
+    color: #450084;
+}
+.fa-facebook {
+    font-size: 35px;
+    color: #450084;
+}
+.fa-twitter {
+    font-size: 35px;
+    color: #450084;
+}
